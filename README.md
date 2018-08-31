@@ -13,3 +13,10 @@ Graph viewing and editing for humans, with an emphasis on dot and bridges to oth
 
 ## Techno
 Python + pyqt || Cpp + Qt
+
+
+## Features
+
+### Animation codes
+User can define animation functions, that are python generators yielding styling to apply on (particular) elements. With a pause between each appliance, you can, for instance, show a graph traversal where already walked node in white and current node in green.
+
